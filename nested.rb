@@ -7,7 +7,7 @@ def hopper
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "GUI",
+          :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
@@ -29,7 +29,7 @@ def alan_kay_is_known_for
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "GUI",
+          :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
@@ -48,7 +48,7 @@ def dennis_ritchies_language
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "GUI",
+          :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
@@ -77,7 +77,7 @@ def adding_matz
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "GUI",
+          :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
@@ -97,7 +97,7 @@ def changing_alan
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "GUI",
+          :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
@@ -119,7 +119,7 @@ def adding_to_dennis
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "GUI",
+          :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
